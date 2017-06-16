@@ -1,0 +1,52 @@
+.header1{
+	background-color: #6E6E6E;
+	height: auto;
+	
+}
+
+.img{
+	
+    text-align: center;
+}
+
+.bo1{
+	background-color: #6E6E6E;	
+	color: white;
+	margin-top: 10px;
+	text-align: center;
+	border: none;
+}
+
+.bo1:hover{
+	background-color: #77EFFC;
+	color: black;
+}
+
+.img1{
+	width: 100px;
+	text-align: left;
+}
+
+.text1{
+	font-size: 30px;
+	font-family: 'Indie Flower', cursive;
+	color: white;
+	margin-top: 5px;
+}
+
+.li1{
+	background-color: #77EFFC;
+	height: 20px;
+	width: 100%;
+}
+
+.header2{
+	height: auto;
+	background-color: #77EFFC;
+	margin-top: -20px;
+}
+
+.header3{
+		background-color: #6E6E6E;
+	height: auto;
+}
